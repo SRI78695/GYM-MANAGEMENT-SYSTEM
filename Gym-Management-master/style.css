@@ -1,0 +1,29 @@
+@import "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css";
+h3{
+	color:red;
+	font-weight: bolder;
+	font-style: italic;
+
+}
+
+.mt-3{
+	color:white;	
+}
+
+.mt-3:hover{
+	color:red;	
+	transition: 0.3 ease-in-out;
+}
+
+.button{
+	color: transparent
+}
+
+.list-group{
+	color:red;
+	
+}
+li{
+	display: inline;
+}
+
